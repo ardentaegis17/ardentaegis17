@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ardentaegis.
 - 👀 I’m interested in data science, and its applications to the maritime and supply chain sector.
-- 🌱 I’m currently studying data structures, nunerical analysis, and operations research.
-- 💞️ I’m looking to collaborate on simple projects.
+- 🌱 I’m currently studying statistical learning techniques, stochastic processes, and time series analysis methods.
+- 💞️ I’m looking to collaborate in hackathons exploring diverse themes and technologies.
 - 📫 How to reach me - drop me an email at ongaidan99@gmail.com !
 
 <!---
