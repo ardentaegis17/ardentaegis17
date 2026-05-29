@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Aidan. Full-time student, part-time hikikomori.
-- 👀 I’m interested in data science, and its applications to the maritime and supply chain sector.
-- 🌱 I’m currently interested in natural language processing, designing data-intensive applications and agile software development.
-- 💞️ I’m looking to collaborate in hackathons exploring diverse themes and technologies.
+- 👋 Hi, I’m Aidan. Geospatial enthusiast and data science practitioner
+- 💞️ Passionate about maritime innovation and process transformation
+- 🌱 I’m currently interested in remote sensing, land-sea datum integration, and sustainability modelling 
 - 📫 How to reach me - drop me a Tele @ardentaegis!
 
 <!---
